@@ -1,4 +1,4 @@
-# API_NASA
+# NASA Image and Video Library
 
 ## The overall project aims to utilize the NASA Image and Video Library API to search for and retrieve images related to a specific topic, in this case, the moon. The project involves writing code to interact with the API, retrieve the desired images, and perform further processing or analysis on the retrieved data.
 
